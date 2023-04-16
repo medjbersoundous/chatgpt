@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../react-task-tracker"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AI"
+	}
+}
